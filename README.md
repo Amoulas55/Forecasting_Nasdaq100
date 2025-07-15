@@ -70,4 +70,3 @@ This project is open-source under the MIT License.
 
 ---
 
-🔗 For questions or collaborations, feel free to connect via [LinkedIn](www.linkedin.com/in/angelos-moulas).
